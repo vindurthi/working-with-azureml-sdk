@@ -19,3 +19,5 @@ This repo contains boiler plate code snippets to perform the following actions i
 15. Create a webservice for serving the ML model - ./service_files/scoring_script.py, deploy_job.py
 16. Consuming the model webservice from workspace - consume_webservice.py
 17. Consuming the model webservice using REST api - api_test.py
+
+### NOTE: Create an upstream All+Data+Files folder when setting up your own repo to run the files without issues. Or change the paths within the dataset.py
