@@ -2,7 +2,7 @@
 
 This repo contains boiler plate code snippets to perform the following actions in Azure Machine Learning studio using  Azureml-SDK. 
 
-1. Set up Azure ML workspace - workspace.py
+1. Set up Azure ML workspace - workspace.py, Manually create a new storage account and notedown the account key
 2. Create and register datastore - datastore.py
 3. Upload files to datastore - upload.py
 4. Create and register dataset - dataset.py
